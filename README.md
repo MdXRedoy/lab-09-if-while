@@ -1,1 +1,1 @@
-# lab-09-if-while
+"This is lab 08...more JavaScript conditionals."
